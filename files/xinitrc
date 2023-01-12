@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Set video output and resolution for X11.
+# Important!: The Resolution chosen here MUST match the internal resolution params of the game. 
+# otherwise vsync will slow down the games.
+xrandr --output HDMI-A-0 --mode 1920x1080 --auto
+
+# Display custom video before emulationstation launch.
+mpv --volume=130 --fullscreen  --input-vo-keyboard=no --audio-device=auto --osc=no /srv/media/gcn.mp4
+
+# Launch emulationstation.
+emulationstation --windowed &
+matchbox-window-manager -use_titlebar no -use_cursor no

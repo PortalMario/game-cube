@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <gameList>
+      <game id="1" source="">
+          <path>./disneys_donald_duck_pk.iso</path>
+          <name>Disney's Donald Duck PK</name>
+          <image>/srv/media/disneys_donald_duck_pk.jpg</image>
+      </game>
+      <game id="2" source="">
+          <path>./eternal_darkness_sanitys_requiem.iso</path>
+          <name>Eternal Darkness - Sanity's Requiem</name>
+          <image>/srv/media/eternal_darkness_sanitys_requiem.jpg</image>
+      </game>
+      <game id="3" source="">
+          <path>./fzero_gx.iso</path>
+          <name>F-Zero GX</name>
+          <image>/srv/media/fzero_gx.jpg</image>
+      </game>
+      <game id="4" source="">
+          <path>./luigis_mansion.iso</path>
+          <name>Luigi's Mansion</name>
+          <image>/srv/media/luigis_mansion.jpg</image>
+      </game>
+      <game id="5" source="">
+          <path>./mario_golf_toadstool_tour.iso</path>
+          <name>Mario Golf - Toadstool Tour</name>
+          <image>/srv/media/mario_golf_toadstool_tour.jpg</image>
+      </game>
+      <game id="6" source="">
+          <path>./mario_kart_double_dash.iso</path>
+          <name>Mario Kart - Double Dash!!</name>
+          <image>/srv/media/mario_kart_double_dash.jpg</image>
+      </game>
+      <game id="7" source="">
+          <path>./mario_party_4.iso</path>
+          <name>Mario Party 4</name>
+          <image>/srv/media/mario_party_4.jpg</image>
+      </game>
+      <game id="8" source="">
+          <path>./mario_party_5.iso</path>
+          <name>Mario Party 5</name>
+          <image>/srv/media/mario_party_5.jpg</image>
+      </game>
+      <game id="9" source="">
+          <path>./mario_party_6.iso</path>
+          <name>Mario Party 6</name>
+          <image>/srv/media/mario_party_6.jpg</image>
+      </game>
+      <game id="10" source="">
+          <path>./mario_smash_football.iso</path>
+          <name>Mario Smash Football</name>
+          <image>/srv/media/mario_smash_football.jpg</image>
+      </game>
+      <game id="11" source="">
+          <path>./metroid_prime.iso</path>
+          <name>Metroid Prime</name>
+          <image>/srv/media/metroid_prime.jpg</image>
+      </game>
+      <game id="12" source="">
+          <path>./paper_mario_die_legende_vom_äonentor.iso</path>
+          <name>Paper Mario - Die Legende vom Äonentor</name>
+          <image>/srv/media/paper_mario_die_legende_vom_äonentor.jpg</image>
+      </game>
+      <game id="13" source="">
+          <path>./pikmin.iso</path>
+          <name>Pikmin</name>
+          <image>/srv/media/pikmin.jpg</image>
+      </game>
+      <game id="14" source="">
+          <path>./pikmin_2.iso</path>
+          <name>Pikmin 2</name>
+          <image>/srv/media/pikmin_2.jpg</image>
+      </game>
+      <game id="15" source="">
+          <path>./pokemon_xd_gale_of_darkness.iso</path>
+          <name>Pokemon XD - Gale of Darkness</name>
+          <image>/srv/media/pokemon_xd_gale_of_darkness.jpg</image>
+      </game>
+      <game id="16" source="">
+          <path>./ssx_on_tour.iso</path>
+          <name>SSX On Tour</name>
+          <image>/srv/media/ssx_on_tour.jpg</image>
+      </game>
+      <game id="17" source="">
+          <path>./super_smash_bros_melee.iso</path>
+          <name>Super Smash Bros. Melee</name>
+          <image>/srv/media/super_smash_bros_melee.jpg</image>
+      </game>
+      <game id="18" source="">
+          <path>./the_legend_of_zelda_collectors_edition.iso</path>
+          <name>The Legend of Zelda - Collector's Edition</name>
+          <image>/srv/media/the_legend_of_zelda_collectors_edition.jpg</image>
+      </game>
+      <game id="19" source="">
+          <path>./the_legend_of_zelda_the_wind_waker.iso</path>
+          <name>The Legend of Zelda - The Wind Waker</name>
+          <image>/srv/media/the_legend_of_zelda_the_wind_waker.jpg</image>
+      </game>
+      <game id="20" source="">
+          <path>./the_legend_of_zelda_twilight_princess.iso</path>
+          <name>The Legend of Zelda - Twilight Princess</name>
+          <image>/srv/media/the_legend_of_zelda_twilight_princess.jpg</image>
+      </game>
+      <game id="21" source="">
+          <path>./wario_world.iso</path>
+          <name>Wario World</name>
+          <image>/srv/media/wario_world.jpg</image>
+      </game>
+  </gameList>
