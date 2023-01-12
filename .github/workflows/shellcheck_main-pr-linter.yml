@@ -1,0 +1,15 @@
+#.github/workflows/
+name: "Lint Pull Requests targeting main"
+run-name: "${{ github.actor }} Pull Request: ${{ github.base_ref }} <- ${{ github.head_ref }}"
+on:
+  pull_request:
+    branches:
+      - main
+jobs:
+  shellcheck-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+      - run: shellcheck *.sh
