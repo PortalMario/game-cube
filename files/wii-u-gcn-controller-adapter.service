@@ -1,0 +1,9 @@
+[Unit]
+Description=wii-u-gcn-controller-adapter-support
+
+[Service]
+TimeoutStartSec=infinity
+ExecStart=/srv/wii-u-gc-adapter
+
+[Install]
+WantedBy=multi-user.target
