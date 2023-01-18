@@ -1,7 +1,10 @@
 # Game-Cube
 
 #### **I dedicate this project to my dear brother: TJW.**
+
 ---
+
+[![Lint Pull Requests targeting main](https://github.com/PortalMario/game-cube/actions/workflows/shellcheck_main-pr-linter.yml/badge.svg)](https://github.com/PortalMario/game-cube/actions/workflows/shellcheck_main-pr-linter.yml)
 
 A project that will transform an Ubuntu Desktop 22.04 LTS into a "Game-Cube" sleeper pc appliance powered by RetroPie and Dolphin. The project guide/documentation explains in detail how to create a sleeper PC that is housed within an original GameCube case to create the best possible GameCube gaming experience but with graphical enhancements for the best possible look. The project provides a script which transforms an existing pc into the mentioned appliance with guides and deep dives that helps you to build your own custom sleeper gaming appliance for any retropie supported platform.
 
