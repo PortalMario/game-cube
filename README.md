@@ -1,4 +1,4 @@
-# Game-Cube
+# Game-Cube 🎮
 
 #### **I dedicate this project to my dear brother: TJW.**
 
@@ -16,7 +16,7 @@ MSAA ( Antialiasing ):  x4
 VSync:                  Active
 ```
 
-## Project Features
+## Project Features 💡
 - Completely silent boot
 - Highly decreased boot time
 - Customizable boot animation
@@ -30,7 +30,7 @@ VSync:                  Active
 ### Side Note
 It is currently not possible to revert the changes made by the script. Keep in mind that you have to reinstall your OS completely if you want to remove changes done by the script.
 
-## Requirements
+## Requirements ✒
 - Stable internet connection.
 - A powerful [APU](./docs/2%20-%20Hardware/2.1%20-%20Requirements%20and%20Teardown/2.1.1%20-%20Hardware%20Requirements.md). (Or dedicated GPU like the a GTX 1070 and a decent four core CPU like the i5 6600K.)
 - A primary username that was created during the installation of the system without any special characters and not named: "game-cube".
@@ -56,10 +56,10 @@ NOTE: You can’t put whitespaces or special characters like `'` in the filename
 
 If you’re unsure if the filename of the game is correct, look at `files/gamelist.xml` at the "Path" parameter and make sure you matched it exactly for each game. There you can also make sure how to name/store the box cover arts correctly.
 
-# [Documentation](https://github.com/PortalMario/game-cube/wiki)
+# [Documentation](https://github.com/PortalMario/game-cube/wiki) 📖
 Part of this project was also to create a documentation that covers everything I’ve done/learned along the way. It covers every technology and the building process of the actual hardware in detail, so everyone could build their own sleeper pc console appliance. For example: if someone wants to do the same but for another retropie supported platform, this guide helps in achieving that. It also covers many useful information regarding a customized Linux boot process. I highly encourage/recommend people to take a look at it! You can find it [here](https://github.com/PortalMario/game-cube/wiki).
 
-# Supported Games (PAL-DE)
+# Supported Games (PAL-DE) 👾
 These games are optimized and configured for the best possible experience. (The out commented ones will be optimized in future updates).
 ```
 Disney's Donald Duck PK
